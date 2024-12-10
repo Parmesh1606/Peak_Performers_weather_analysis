@@ -26,7 +26,11 @@ We welcome contributions to enhance the features of this project.
 
 Made By:-
 HENIL PURI GOSWAMI - KU2407U290
+
 PARMESH MODI - KU2407U346
+
 JENICA PRAJAPATI - KU2407U305
+
 SHANU PATEL - KU2407U369 
+
 OMI PATEL - KU2407U348

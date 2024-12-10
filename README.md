@@ -22,13 +22,7 @@ This project is a comprehensive weather analysis tool designed to read, process,
 ---
 
 ### **Contributing**
-We welcome contributions to enhance the features of this project. Please follow these steps:
-1. Fork the repository.
-2. Create a new branch for your feature.
-3. Commit and push your changes.
-4. Submit a pull request with a detailed explanation.
-
----
+We welcome contributions to enhance the features of this project.
 
 Made By:-
 HENIL PURI GOSWAMI - KU2407U290
